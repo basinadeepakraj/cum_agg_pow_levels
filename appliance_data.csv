@@ -1,0 +1,26 @@
+Name,Cat,Rpow
+Light,0,100
+Fan,0,100
+Security Camera,0,100
+Projector,0,300
+Desktop,0,300
+Monitor,0,200
+Laptop,1,100
+Water Pump,1,1000
+Audio System,1,200
+Air Purifier,2,300
+Humidifier,2,300
+Dehumidifier,2,300
+AC,2,1000
+Heater,2,1000
+Printer,3,500
+TV,3,500
+Rice Cooker,3,200
+Water Purifier,3,200
+Vacuum Cleaner,3,200
+Coffee Maker,3,1000
+Dishwasher,4,1000
+Washing Machine,4,1000
+Microwave Oven,4,1000
+Kettle,4,1000
+Refrigerator,4,500
